@@ -1,1 +1,2 @@
-# fr01
+# include<iostream>
+using namespace std;
